@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="13_329" tvg-name="עברי לפני שבת ~ עם דוד בן בסט" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91FM", עברי לפני שבת ~ עם דוד בן בסט ~ שעה 1 ~ 09/10/2026
+https://www.oles.tv/videos/91fm/__archive/20261009180000.mp3
+#EXTINF:-1 tvg-id="13_329" tvg-name="עברי לפני שבת ~ עם דוד בן בסט" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91FM", עברי לפני שבת ~ עם דוד בן בסט ~ שעה 2 ~ 09/10/2026
+https://www.oles.tv/videos/91fm/__archive/20261009190000.mp3
 #EXTINF:-1 tvg-id="13_329" tvg-name="עברי לפני שבת ~ עם דוד בן בסט" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91FM", עברי לפני שבת ~ עם דוד בן בסט ~ שעה 1 ~ 02/10/2026
 https://www.oles.tv/videos/91fm/__archive/20261002180000.mp3
 #EXTINF:-1 tvg-id="13_329" tvg-name="עברי לפני שבת ~ עם דוד בן בסט" tvg-logo="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" group-title="רדיו לב המדינה 91FM", עברי לפני שבת ~ עם דוד בן בסט ~ שעה 2 ~ 02/10/2026
