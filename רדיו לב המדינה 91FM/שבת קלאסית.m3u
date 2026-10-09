@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="13_328" tvg-name="שבת קלאסית" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91FM", שבת קלאסית ~ שעה 1 ~ 09/10/2026
+https://www.oles.tv/videos/91fm/__archive/20261009160000.mp3
+#EXTINF:-1 tvg-id="13_328" tvg-name="שבת קלאסית" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91FM", שבת קלאסית ~ שעה 2 ~ 09/10/2026
+https://www.oles.tv/videos/91fm/__archive/20261009170000.mp3
 #EXTINF:-1 tvg-id="13_328" tvg-name="שבת קלאסית" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91FM", שבת קלאסית ~ שעה 1 ~ 02/10/2026
 https://www.oles.tv/videos/91fm/__archive/20261002160000.mp3
 #EXTINF:-1 tvg-id="13_328" tvg-name="שבת קלאסית" tvg-logo="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" group-title="רדיו לב המדינה 91FM", שבת קלאסית ~ שעה 2 ~ 02/10/2026
